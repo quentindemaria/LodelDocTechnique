@@ -1,1 +1,1 @@
-Documentation technique du cms de Lodel, logiciel d'édition en ligne.
+Documentation technique du cms de Lodel, logiciel libre d'édition en ligne.
